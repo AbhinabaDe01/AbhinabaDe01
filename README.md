@@ -1,6 +1,7 @@
 ### Hi there 👋
 # I am Abhinaba De. 
-## Nice to meet you! I am a CSE student and curerntly focusing on Web Development skills
+Nice to meet you! I am a CSE student and curerntly focusing on Web Development skills.
+Ready to participate actively!
 
 
 <!--
